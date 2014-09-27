@@ -42,7 +42,8 @@
     "name": "zetacomponents/workflow-database-tiein",
     "type": "library",
         "require": {
-            "zetacomponents/base": "*"
+            "zetacomponents/database": "~1.4",
+            "zetacomponents/workflow": "~1.4"
         },
         "require-dev": {
             "zetacomponents/unit-test": "*"
