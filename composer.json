@@ -36,6 +36,11 @@
             "src"
         ]
     },
+    "autoload-dev": {
+        "classmap": [
+            "tests", "vendor"
+        ]
+    },
     "description": "Contains the database backend for the Workflow component.",
     "homepage": "https://github.com/zetacomponents",
     "license": "Apache-2.0",
