@@ -51,6 +51,7 @@
             "zetacomponents/workflow": "~1.4"
         },
         "require-dev": {
-            "zetacomponents/unit-test": "*"
+            "zetacomponents/unit-test": "*",
+            "zetacomponents/database-schema": "*"
         }
 }
