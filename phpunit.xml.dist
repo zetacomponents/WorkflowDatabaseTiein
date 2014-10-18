@@ -11,4 +11,8 @@
             <directory>./src</directory>
         </whitelist>
     </filter>
+
+    <php>
+        <const name="ZETA_TESTSUITE_DSN" value="sqlite://:memory:"/>
+    </php>
 </phpunit>
